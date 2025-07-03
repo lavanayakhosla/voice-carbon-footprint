@@ -1,4 +1,4 @@
-Here’s a **complete README.md** template for your project, tailored for a FastAPI + Whisper backend and React frontend, with all best practices and troubleshooting included:
+
 
 # 🌱 Voice Carbon Footprint Tracker
 
